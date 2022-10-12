@@ -4,8 +4,10 @@
 This's a Design System project. This was built with React, Storybook, Tailwind and Radix.
 
 ## Main concepts:
-Components composition, tokens and utility classes.
+Components composition, tokens, utility classes and CI/CD.
 
+## Live Demo:
+* https://damasiomg.github.io/react-lab
 
 ## Requirements:
 1. `node 16.x or 10.x`
